@@ -1,0 +1,1 @@
+global.set("main",0);

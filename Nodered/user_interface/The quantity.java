@@ -1,0 +1,1 @@
+global.set("globalval",String(msg.payload));
