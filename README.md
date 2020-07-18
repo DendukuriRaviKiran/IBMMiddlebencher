@@ -29,4 +29,4 @@ This technology Uberifies the current Water Industry filled with gaps in Supplyc
 
 ## Demo video
 Click The Icon Below <br>
-[![Watch the video](https://github.com/DendukuriRaviKiran/IBMMiddlebencher/blob/master/Nodered/screenshots/abcd.jpg)](https://www.youtube.com/watch?v=HTrKSBfW3oc&t=57s)
+[![Watch the video](https://github.com/DendukuriRaviKiran/IBMMiddlebencher/blob/master/Nodered/screenshots/abcd.jpg)](https://youtu.be/HTrKSBfW3oc)
