@@ -31,7 +31,7 @@ This technology Uberifies the current Water Industry filled with gaps in Supplyc
 Click The Icon Below <br>
 [![Watch the video](https://github.com/DendukuriRaviKiran/IBMMiddlebencher/blob/master/Nodered/screenshots/abcd.jpg)](https://youtu.be/HTrKSBfW3oc)
 
-## The architecture
+## The Architecture
 
 ![Video transcription/translation app](https://github.com/DendukuriRaviKiran/IBMMiddlebencher/blob/master/Nodered/screenshots/WhatsApp%20Image%202020-07-18%20at%2013.38.41.jpeg)
 
