@@ -8,7 +8,7 @@ IBM Call for Code Submission
 1. [The architecture](#the-architecture)
 1. [Long description](#long-description)
 1. [Project roadmap](#project-roadmap)
-1. [Getting started](#getting-started)
+1. [Setup](#setup)
 1. [Built with](#built-with)
 1. [Acknowledgments](#acknowledgments)
 
