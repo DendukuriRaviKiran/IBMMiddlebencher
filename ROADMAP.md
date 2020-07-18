@@ -4,9 +4,9 @@
 
 ## Middlebencher currently:
 
-* Gathers orders through sample houses from mobile application sends that data to the IBM Cloud for processing
-* Processes the transaction via MQTT and performs water transfer between sample communities
-* Stores data collected by ultrasonic sensor for long-term analysis of better water usage prediction
+* Gathers orders through sample houses from mobile application and sends that data to the IBM Cloud via MQTT for processing
+* Processes the transaction via Node red and performs water transfer between sample communities
+* Stores data collected by ultrasonic sensor for long-term analysis of better water usage prediction with IBM Watson
 * Visualizes data through a dashboard 
 
 ## Within the next months we are aiming to do:
