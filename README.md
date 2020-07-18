@@ -53,7 +53,7 @@ See [setup.md](setup.md)
 
 ## Built with
 
-* [IBM IoT Platform](https://www.ibm.com/internet-of-things/solutions/iot-platform/watson-iot-platform) - Used to collect and capture data from the sensor
+* [IBM IoT Platform](https://www.ibm.com/internet-of-things/solutions/iot-platform/watson-iot-platform) - Used to collect and capture data from the sensor and actuator
 * [Node-RED](https://nodered.org/) - Used to run a custom machine learning algorithm on the collected data
 * [IBM Cloud Kubernetes Service](https://www.ibm.com/cloud/container-service/) - Used to connect the data to the dashboard
 
