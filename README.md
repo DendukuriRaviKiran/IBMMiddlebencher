@@ -5,7 +5,7 @@ IBM Call for Code Submission
 
 1. [Short description](#short-description)
 1. [Description and Demo video](#description-and-demo-video)
-1. [The architecture](#the-architecture)
+1. [The Architecture](#the-architecture)
 1. [Long description](#long-description)
 1. [Project roadmap](#project-roadmap)
 1. [Setup](#setup)
