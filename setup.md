@@ -144,7 +144,6 @@ At this point, we need somewhere to publish our real-time dashboard. We created 
 
 This service has exposed two ports, one for the websockets server and the other for the NGINX server.
 
-[Inside this folder](/dashboard/server), you can find the code of the websockets server `server.js`, the source for the portal `html/index.html` and also the script we use to deploy and update the code on our pod `deploy.sh`.
 
 ## Watson Machine Learning
 
