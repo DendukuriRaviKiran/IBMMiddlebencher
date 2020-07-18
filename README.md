@@ -10,6 +10,7 @@ IBM Call for Code Submission
 1. [Project roadmap](#project-roadmap)
 1. [Setup](#setup)
 1. [Built with](#built-with)
+1. [Authors](#authors)
 1. [Acknowledgments](#acknowledgments)
 
 ## Short description
@@ -49,3 +50,20 @@ See [ROADMAP.md](ROADMAP.md)
 ## Setup
 
 See [setup.md](setup.md)
+
+## Built with
+
+* [IBM IoT Platform](https://www.ibm.com/internet-of-things/solutions/iot-platform/watson-iot-platform) - Used to collect and capture data from the sensor
+* [Node-RED](https://nodered.org/) - Used to run a custom machine learning algorithm on the collected data
+* [IBM Cloud Kubernetes Service](https://www.ibm.com/cloud/container-service/) - Used to connect the data to the dashboard
+
+## Authors
+
+* Dendukuri Ravi Kiran
+* Korivi Adi Siva Prasad Reddy
+* Aki Rohith
+* Varun Alla
+* CHOKKARAPU ANUDEEP
+
+## Acknowledgments
+* Vaishnavi Rudraraju for her voiceover in the Demo Video.
