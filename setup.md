@@ -44,10 +44,10 @@ Solenoid valve is a control unit which, when electrically energized or de-energi
 
 The Following is the Node red Setup and demo for the Proposed Idea and the code is used in the IBM Cloud Platform <br>
 ### Step 1: Cloud Credentials<br>
-	Node red link - https://bit.ly/middlebencherdeloitte  (Open the link in browser)<br>
-	Node red login – mid (Enter into node red flow editor and enter login and password)<br>
-	Node red password - Griet123 <br>
-	IBM Cloud login – ravikiranrocks3690@gmail.com  (IBM cloud credentials) <br>
+	Node red link - https://bit.ly/middlebencherdeloitte  (Open the link in browser)
+	Node red login – mid (Enter into node red flow editor and enter login and password)
+	Node red password - Griet123 
+	IBM Cloud login – ravikiranrocks3690@gmail.com  (IBM cloud credentials) 
 	IBM Cloud password – Griet123 
 
 ### Step 2: Open Dashboard 
