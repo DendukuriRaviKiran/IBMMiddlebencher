@@ -61,7 +61,7 @@ Step 11: Receiver Hub <br>
 	 Here the information of the desired Receiver is used to send the quantity of water it needs to receive using a switch. The Hardware of Receiver Home after completion of 	   task sends a confirmation which is then passed to Main Cloud.<br>
 	 The link code for the following :https://github.com/DendukuriRaviKiran/IBMMiddlebencher/tree/master/Nodered/reciever<br>
 <p align="center">
-  <img src="https://github.com/DendukuriRaviKiran/ibmteamthirdeye/blob/master/code/screenshots/maintank-8.png">
+  <img src="https://github.com/DendukuriRaviKiran/ibmteamthirdeye/blob/master/code/screenshots/reciever-9.png">
 </p>
 Step 12: User Infographics <br>
 	 The data of all the transactions performed by the houses are displayed as line charts in the Dashboard “each house water intake" tab.<br>
