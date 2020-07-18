@@ -32,7 +32,7 @@ Click The Icon Below <br>
 
 ## The architecture
 
-![Video transcription/translation app]https://github.com/DendukuriRaviKiran/IBMMiddlebencher/blob/master/Nodered/screenshots/WhatsApp%20Image%202020-07-18%20at%2013.38.41.jpeg)
+![Video transcription/translation app](https://github.com/DendukuriRaviKiran/IBMMiddlebencher/blob/master/Nodered/screenshots/WhatsApp%20Image%202020-07-18%20at%2013.38.41.jpeg)
 
 1. The User navigates to the application and performs a water transaction.
 2. Node red is used to process the transaction via MQTT and provides information to the respective hardware components.
