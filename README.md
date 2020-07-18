@@ -9,7 +9,6 @@ IBM Call for Code Submission
 1. [Long description](#long-description)
 1. [Project roadmap](#project-roadmap)
 1. [Getting started](#getting-started)
-1. [Live demo](#live-demo)
 1. [Built with](#built-with)
 1. [Acknowledgments](#acknowledgments)
 
@@ -30,3 +29,12 @@ This technology Uberifies the current Water Industry filled with gaps in Supplyc
 ## Description and Demo video
 Click The Icon Below <br>
 [![Watch the video](https://github.com/DendukuriRaviKiran/IBMMiddlebencher/blob/master/Nodered/screenshots/abcd.jpg)](https://youtu.be/HTrKSBfW3oc)
+
+## The architecture
+
+![Video transcription/translation app]https://github.com/DendukuriRaviKiran/IBMMiddlebencher/blob/master/Nodered/screenshots/WhatsApp%20Image%202020-07-18%20at%2013.38.41.jpeg)
+
+1. The User navigates to the application and performs a water transaction.
+2. Node red is used to process the transaction via MQTT and provides information to the respective hardware components.
+3. The microcontroller of the respective harware component performs the desired activity using its sensors an actuators and sends confirmation.
+4. The app stores the confirmationn text as a document within Object Storage.
