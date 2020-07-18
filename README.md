@@ -17,7 +17,7 @@ IBM Call for Code Submission
 
 ### What's the problem?
 
-Water Scarcity is a dire problem in the world. India and many other countries are expected to run out of ground water by the year 2020 .Due to the advent of Global Warming the natural sources like rivers and lakes are drying up creating scenarios like the Cape town and Chennai Drought .Alternate renewable water sources like sewage treatment , rain water harvesting etc. have storage and capital limitations with have restricted them for mass adoption.
+Water Scarcity is a dire problem in the world. India and many other countries are expected to run out of ground water by the year 2025 .Due to the advent of Global Warming the natural sources like rivers and lakes are drying up creating scenarios like the Cape town and Chennai Drought .Alternate renewable water sources like sewage treatment , rain water harvesting etc. have storage and capital limitations with have restricted them for mass adoption.
 
 ### The idea
 
