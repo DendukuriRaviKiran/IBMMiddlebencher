@@ -44,9 +44,7 @@ Click The Icon Below <br>
 See [Longdescription.md](Longdescription.md)
 
 ## Roadmap
-<p align="center">
-  <img src="https://github.com/DendukuriRaviKiran/IBMMiddlebencher/blob/master/Nodered/screenshots/WhatsApp%20Image%202020-07-18%20at%2010.23.41.jpeg">
-</p>
+See [ROADMAP.md](ROADMAP.md)
 
 ## Setup
 
