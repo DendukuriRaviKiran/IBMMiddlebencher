@@ -2,7 +2,7 @@
 
 Submission for IBM Call for code 2020 <br>
 <br>
-The Following is the Node red Setup and demo for the Proposed Idea and the code is used in the Platform IBM Cloud Node Red<br>
+The Following is the Node red Setup and demo for the Proposed Idea and the code is used in the IBM Cloud Platform <br>
 Step 1: Cloud Credentials<br>
 	Node red link - https://bit.ly/middlebencherdeloitte  (Open the link in browser)<br>
 	Node red login – mid (Enter into node red flow editor and enter login and password)<br>
