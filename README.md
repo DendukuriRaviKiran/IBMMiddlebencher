@@ -4,7 +4,7 @@ IBM Call for Code Submission
 ## Contents
 
 1. [Short description](#short-description)
-1. [Demo video](#demo-video)
+1. [Description and Demo video](#demo-video)
 1. [The architecture](#the-architecture)
 1. [Long description](#long-description)
 1. [Project roadmap](#project-roadmap)
@@ -27,6 +27,6 @@ The main objective of the project is to eradicate the conventional water managem
 
 This technology Uberifies the current Water Industry filled with gaps in Supplychain and reliability. The Proposed Idea can help in the eradication of Irregular surge in water prices and help in creating a competitive and at the same time fair market where anyone can sell their product.This technology helps to create mass adoption of renewable water sources and maintanence of reliable service in the quality of water.
 
-## Demo video
+## Description and Demo video
 Click The Icon Below <br>
 [![Watch the video](https://github.com/DendukuriRaviKiran/IBMMiddlebencher/blob/master/Nodered/screenshots/abcd.jpg)](https://youtu.be/HTrKSBfW3oc)
