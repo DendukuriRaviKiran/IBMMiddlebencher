@@ -40,6 +40,12 @@ A water pump is a mechanical device that changes the energy flow from electrical
 #### Solenoid valve
 Solenoid valve is a control unit which, when electrically energized or de-energized, either shut off or allow fluid flow. The actuator is used to guide the water flow in the right direction to the receiver.
 
+## IBM IoT Platform
+
+This is a very straight forward step, simply register the new devices and make sure they connect to the platform, also and thanks to the code uploaded to our microcontroller we're able to perform remote actions on our device, such as change the polling interval, restart the device, or wipe it.
+
+At last but not at least we create a connection between the IoT Platform and our next step, our Node-RED app.
+
 ## Node-Red
 
 The Following is the Node red Setup and demo for the Proposed Idea and the code is used in the IBM Cloud Platform <br>
@@ -118,3 +124,21 @@ The Following is the Node red Setup and demo for the Proposed Idea and the code 
 <p align="center">
   <img src="https://github.com/DendukuriRaviKiran/ibmteamthirdeye/blob/master/code/screenshots/Picture10.png">
 </p>
+
+## IBM Cloud Kubernetes Service
+
+At this point, we need somewhere to publish our real-time dashboard. We created a service at the IBM Cloud Container Service. This service includes a websockets receiver and sender and a NGINX hosting our portal written basically with Javascript and using datatables library based on jQuery.
+
+This service has exposed two ports, one for the websockets server and the other for the NGINX server.
+
+[Inside this folder](/dashboard/server), you can find the code of the websockets server `server.js`, the source for the portal `html/index.html` and also the script we use to deploy and update the code on our pod `deploy.sh`.
+
+## Watson Machine Learning
+
+Prometeo solution uses machine learning in order to determine the level of risk to keep the firefighter in the area putting out the fire or if it is imperative to move him away.
+
+We didn't have real data for training the model, so we decided to emulate data creating an ad hoc dataset.
+
+First, we used the dataset to train the model.
+
+After training the model, we created a web service in order to use the model in the Node/Red module explained above.
