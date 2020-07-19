@@ -37,7 +37,7 @@ Click The Icon Below <br>
 
 1. The User navigates to the application and performs a water transaction.
 2. Node red is used to process the transaction via MQTT and provides information to the respective hardware components.
-3. The microcontroller of the respective harware component performs the desired activity using its sensors an actuators and sends confirmation.
+3. The microcontroller of the respective hardware component performs the desired activity using its sensors an actuators and sends confirmation.
 4. The app stores the confirmationn text as a document within Object Storage.
 
 ## Long Description
