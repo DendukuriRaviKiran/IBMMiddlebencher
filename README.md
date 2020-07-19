@@ -63,7 +63,7 @@ See [setup.md](setup.md)
 * Korivi Adi Siva Prasad Reddy
 * Aki Rohith
 * Varun Alla
-* CHOKKARAPU ANUDEEP
+* Chokkarapu Anudeep
 
 ## Acknowledgments
 * Vaishnavi Rudraraju for her voiceover in the Demo Video.
