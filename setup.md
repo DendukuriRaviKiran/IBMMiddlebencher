@@ -147,7 +147,7 @@ This service has exposed two ports, one for the websockets server and the other 
 
 ## Watson Machine Learning
 
-Middlebencher solution uses machine learning in order to determine the level of risk to keep the firefighter in the area putting out the fire or if it is imperative to move him away.
+Middlebencher solution uses machine learning in order to determine the level of water usage of each house based on values from Ultrasonic sensor , Temperature sensor and the respective Weekday. 
 
 We didn't have real data for training the model, so we decided to emulate data creating an ad hoc dataset.
 
