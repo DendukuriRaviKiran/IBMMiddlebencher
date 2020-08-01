@@ -68,6 +68,7 @@ See [setup.md](setup.md)
 
 ## Acknowledgments
 * Vaishnavi Rudraraju for her voiceover in the Demo Video.
+* Based on [Billie Thompson's README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
 
 ## License
 
