@@ -4,6 +4,7 @@ mov p0,a
 mov p1,a 
 mov p2,a 
 mov p3,a 
+mov p4,a
 setb p1.0 
 setb p1.1 
 setb p1.2 
