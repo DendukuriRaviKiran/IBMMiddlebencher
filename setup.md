@@ -154,3 +154,38 @@ We didn't have real data for training the model, so we decided to emulate data c
 First, we used the dataset to train the model.
 
 After training the model, we created a web service in order to use the model in the Node/Red module explained above.
+
+## Mobile Application
+
+Mobile Application is a dashboard of all respective buyers , sellers and a marketplace for Water interchange. The Mobile Application is built using Kodular Interface. The UPI and Database is bulit using MySQL and Deep Host API.
+
+The AIA and APK file for the following :https://github.com/DendukuriRaviKiran/IBMMiddlebencher/tree/master/MobileApplicationSoftware<br>
+<p align="center">
+  <img src="https://github.com/DendukuriRaviKiran/IBMMiddlebencher/blob/master/Nodered/screenshots/Screenshot_2020-08-01-08-27-44-62_bcf19fdaab5f528e1a140238641ca633.jpg">
+</p>
+
+<p align="center">
+  <img src="https://github.com/DendukuriRaviKiran/IBMMiddlebencher/blob/master/Nodered/screenshots/Screenshot_2020-08-01-08-27-53-96_bcf19fdaab5f528e1a140238641ca633.jpg">
+</p>
+
+### Selling of water : THe User registers Himself as a potential seller and buyers can order from his water storage.
+<p align="center">
+  <img src="https://github.com/DendukuriRaviKiran/IBMMiddlebencher/blob/master/Nodered/screenshots/Screenshot_2020-08-01-08-28-23-78_bcf19fdaab5f528e1a140238641ca633.jpg">
+</p>
+### Buying of water : The User can request the desired water quantity and all the seller who have the desired quantity are shown in the dashboard
+<p align="center">
+  <img src="https://github.com/DendukuriRaviKiran/IBMMiddlebencher/blob/master/Nodered/screenshots/Screenshot_2020-08-01-08-28-01-19_bcf19fdaab5f528e1a140238641ca633.jpg">
+</p>
+
+<p align="center">
+  <img src="https://github.com/DendukuriRaviKiran/IBMMiddlebencher/blob/master/Nodered/screenshots/Screenshot_2020-08-01-08-29-33-94_bcf19fdaab5f528e1a140238641ca633.jpg">
+</p>
+
+<p align="center">
+  <img src="https://github.com/DendukuriRaviKiran/IBMMiddlebencher/blob/master/Nodered/screenshots/Screenshot_2020-08-01-08-29-47-21.jpg">
+</p>
+
+###Payment : After selecting the desired seller andclicking the buy button the user  is then transported to the UPI platform for payment and last steps.
+<p align="center">
+  <img src="https://github.com/DendukuriRaviKiran/IBMMiddlebencher/blob/master/Nodered/screenshots/Picture6.png">
+</p>
