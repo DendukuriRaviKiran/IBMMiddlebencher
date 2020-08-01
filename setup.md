@@ -173,6 +173,7 @@ The AIA and APK file for the following :https://github.com/DendukuriRaviKiran/IB
   <img src="https://github.com/DendukuriRaviKiran/IBMMiddlebencher/blob/master/Nodered/screenshots/Screenshot_2020-08-01-08-28-23-78_bcf19fdaab5f528e1a140238641ca633.jpg">
 </p>
 ### Buying of water : The User can request the desired water quantity and all the seller who have the desired quantity are shown in the dashboard
+
 <p align="center">
   <img src="https://github.com/DendukuriRaviKiran/IBMMiddlebencher/blob/master/Nodered/screenshots/Screenshot_2020-08-01-08-28-01-19_bcf19fdaab5f528e1a140238641ca633.jpg">
 </p>
