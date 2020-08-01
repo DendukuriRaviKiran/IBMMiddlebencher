@@ -185,7 +185,7 @@ The AIA and APK file for the following :https://github.com/DendukuriRaviKiran/IB
   <img src="https://github.com/DendukuriRaviKiran/IBMMiddlebencher/blob/master/Nodered/screenshots/Screenshot_2020-08-01-08-29-39-73_bcf19fdaab5f528e1a140238641ca633.jpg">
 </p>
 
-###Payment : After selecting the desired seller andclicking the buy button the user  is then transported to the UPI platform for payment and last steps.
+### Payment : After selecting the desired seller andclicking the buy button the user  is then transported to the UPI platform for payment and last steps.
 <p align="center">
   <img src="https://github.com/DendukuriRaviKiran/IBMMiddlebencher/blob/master/Nodered/screenshots/Picture6.png">
 </p>
