@@ -12,6 +12,7 @@ IBM Call for Code Submission
 1. [Built with](#built-with)
 1. [Authors](#authors)
 1. [Acknowledgments](#acknowledgments)
+1. [LICENSE](#license)
 
 ## Short description
 
@@ -67,3 +68,7 @@ See [setup.md](setup.md)
 
 ## Acknowledgments
 * Vaishnavi Rudraraju for her voiceover in the Demo Video.
+
+## License
+
+See [License](LICENSE)
